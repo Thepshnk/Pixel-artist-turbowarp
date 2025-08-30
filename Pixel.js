@@ -36,7 +36,6 @@
         ],
         menus: {
         },
-        url: 'https://example.com/pixel-artist-pro'
     };
 
     function initCanvas() {
